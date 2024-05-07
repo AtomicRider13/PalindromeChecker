@@ -1,0 +1,33 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  text-align:center;
+  background: linear-gradient(black, magenta,purple);
+  color: white;
+}
+
+#result {
+  font-weight:bold;
+}
+
+
+
+.container {
+  position:absolute;
+  top:30%;
+  left:40%;
+}
+button {
+  margin:20px;
+  border-radius:10%;
+  background-color:white;
+  font-weight:bold;
+}
+
+button:hover {
+  background-color:darkgray;
+
+}
